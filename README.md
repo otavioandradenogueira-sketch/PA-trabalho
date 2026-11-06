@@ -1,16 +1,16 @@
 # PA-trabalho
 Projeto final- PA
 
-introdução
+introdução:
 
 
-interpretaçaõ
+interpretação:
 
 
-resolução
+resolução:
 
 
-Conclusão
+Conclusão:
 
 
 
